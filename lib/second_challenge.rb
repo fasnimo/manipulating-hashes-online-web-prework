@@ -10,8 +10,5 @@ def second_challenge
   groceries.each do |key, value|
     if key == groceries 
       value.values 
-
-end 
-  
-
+  end 
 end
