@@ -10,6 +10,6 @@ def second_challenge
 groceries.each do |value|
 value.values
 end 
-  .values
+  
 
 end
