@@ -7,8 +7,8 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.each do |key, value|
-    if key == :dairy; :vegetable; :meat; :grains
+  groceries.each do |attribute, value|
+    if attribute == :dairy; :vegetable; :meat; :grains
       value.values 
   end 
 end
