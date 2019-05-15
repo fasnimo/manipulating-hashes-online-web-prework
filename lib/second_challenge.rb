@@ -7,9 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  second_challenge.each do |v|
-    if second_challenge == groceries
-      v.values 
+  groceries.values.flatten
   end 
 end
 end
