@@ -7,8 +7,8 @@ def second_challenge
   }
 
   #code your solution here!
-  second_challenge.each do |hash, value|
+  second_challenge.each do |hash, v|
     if hash == groceries
-      value.values 
+      v.values 
   end 
 end
