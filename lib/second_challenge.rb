@@ -7,7 +7,9 @@ def second_challenge
   }
 
   #code your solution here!
-  
+  groceries.each do |key, value|
+    if key == groceries 
+      value.values 
 
 end 
   
